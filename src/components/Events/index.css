@@ -1,0 +1,28 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+}
+.background-container {
+  display: flex;
+  width: 100%;
+}
+.events-cont {
+  background-color: #64748b;
+  width: 70%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #f8fafc;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  margin-left: 60px;
+}
+.events-list {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+}

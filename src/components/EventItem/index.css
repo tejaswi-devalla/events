@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list-items {
+  margin: 20px;
+}
+.button {
+  background-color: transparent;
+  border-radius: 20px;
+  border-width: 0;
+}
+.event-img {
+  height: 25vh;
+}
+.event-name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 26px;
+  margin-top: 10px;
+}
+.event-place {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.border {
+  border: solid 2px #2dd4bf;
+  border-radius: 10px;
+}
